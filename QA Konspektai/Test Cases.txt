@@ -1,0 +1,19 @@
+Test Case
+Testavimo uþduotis/scenarijus yra dokumentas, kuriame suraðytos uþduotys testavimui, jo reikalavimai ir rezultas kurio tikimasi.
+
+Test Case is a document that contains a set of test data, preconditions, expected results, postconditions, and is developed for a particular test scenario to verify compliance against a specific requirement
+
+Test case parameters:
+Test scenario;
+Test description;
+Test Steps;
+Preconditions;
+Test Data;
+Expected result;
+Priority;
+Environment information;
+
+Checklist is a similar to a test case but contains less information.
+Useful when the testing team is more experienced and doesnt have musch tome to define and write all possible test cases;
+
+User story - Scenarijus ið paprasto vartotojo pusës.

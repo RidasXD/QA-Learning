@@ -1,0 +1,28 @@
+Testing Activities
+Testavimas yra átrauktas á kiekvienà programinës árangos gyvenimo ciklo (Software Development Life Cycle) procesà ir yra neiðskiriama jo dalis.
+
+Pagrindinës testavimo veiklos yra ðios:
+
+1. Planning
+2. Specification
+3. Execution
+4. Test Completion
+
+--
+
+1. Planning
+Prieð pradëdamas testavimo darbus, QA turi susiplanuoti kaip atliks testavimo darbus ir kà tiksliai testuos.
+Nurodoma kas bus testuojama, kaip bus testuojama, kokia áranga bus testuojama, pradþios/finalo kriterijai.
+
+"Identifies: features to be tested, testing tasks, testing environments, testing design, entry and exit test criteria"
+
+2. Specification
+Design test cases & Build test cases
+
+3. Execution
+Test engineer runs the test and ensures that the application matches the expected results.
+Important test cases executed first!
+
+4. Test Completion
+QA should be confident that all testing activities have been completed successfully, all hight level bugs have been resolved;
+Apply lessons learned in this project to future projects.

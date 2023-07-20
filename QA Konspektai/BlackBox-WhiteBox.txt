@@ -1,0 +1,11 @@
+Black Box testing
+Tai testavimo metodas, kai testuotojas neþino kaip veikia aplikacija ir jos kodas.
+
+"Black box testing is a software testing method in which the internal implementation of the function is not known by the tester
+This means that the tester doesn't know how to application's code works"
+
+Functional testing - funkciniai testai (pvz. prisijungimo meniu)
+"Testers tests how well the system PERFORMS"
+Non-Functional testing - nefunkciniai testai (pvz. kiek lankytojø svetainëje maksimaliai gali apsilankyti?)
+"Testers tests how well the system RESPONDS"
+Regression testing - Regresiniai testai kai atliekamas koks nors pakitimas, kad ir smulkus - patikrinti, jog vistiek visos funkcijos veikia ir nesugriuvo;

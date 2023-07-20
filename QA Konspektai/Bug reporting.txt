@@ -1,0 +1,34 @@
+Bug reporting
+
+Yra keletas bug'ø (if something on a website or app isn't working as it should, it's reffered to as a bug) tipø:
+
+1. Visual bugs;
+2. Functional bugs;
+3. Performance issues;
+
+---
+1. Visual bugs
+Paveiksliukai, lygiavimas, dizainas ir kt.
+Klaidos susijusios su vartotojo patirtimi svetainëje/programëlëje.
+
+2. Functional bugs
+Tam tikros veikimo klaidos, pvz. negalëjimas prisijungti prie paskyros, ar negalëjimas ásidëti prekës á pirkiniø krepðelá;
+Tai gali bûti ir kritinë problema, todël turi bûti sutvarkytos kuo ámanoma greièiau;
+
+3. Performance issues
+Ilgas svetainës krovimo laikas, lëtas svetainës krovimo laikas ir kt.
+Kritinis aspektas - kas norës laukti kol krausis svetainë, jei ji tà darys +15sec?
+
+--
+Klaidø praneðimas
+
+Klaidos turi bûti praneðtos konkreèiai: problemos apraðymas, þingsniai problemai pakartoti, screenshot'ai, klaidø praneðimai.
+Tinkamai parinktas klaidos prioritetas.
+
+---
+Pvz. Bandant apsilankyti svetainëje www.google.lt, rodoma 404 klaida.
+
+Apraðymas: 404 error appiers when I open https://www.google.lt website.
+Steps to reproduce: Go to https://www.google.lt, observe the error.
+Expected result: User can reach google.lt website.
+Actual result: 404 error appiers when user tries to reach website.
