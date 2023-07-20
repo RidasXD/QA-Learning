@@ -1,0 +1,52 @@
+Software Development Life Cycle
+Programinës árangos "gyvenimo" ciklas.
+
+1. Planning
+2. Defining
+3. Building
+4. TESTING
+5. Deploying
+6. Maintaining
+
+--
+
+1. Planning
+KO MES NORIME? | WHAT WE WANT?
+Indentifikavimas ko mes norime ið projekto, ko ið mûsø nori klientas, projekto plano kûrimas.
+
+"Test strategy and planning. Testers contribute to the development of a test strategy that outlines the overall approach to testing."
+"Risk analysis: Testers participate in risk analysis sessions to identify potential risks associated with the software and plan mitigation strategies"
+
+2. Defining
+KAIP MES GAUSIME TAI KO NORIME? | HOW WILL WE GET WHAT WE WANT?
+
+Gaunami verslo/kliento reikalavimai, kuriamas procesas, jo diagramos, atliekama detali analizë, projektuojama/maketuojama IT infrastukrûra;
+
+"Reviewing and analyzing requirements: Testers analyze the requirements and specifications to identify any ambiguities, inconsistencies or potential issues"
+"Developing testable requirements. Testers help to create testable requirements by ensuring that they are clear, concise and measurable"
+"Testers assist in estimating the time and resources required for the testing activities"
+
+3. Building
+Programavimo/Kûrimo darbai.
+Programuotojai raðo kodà, transformuodami dokumentus ið praeitø faziø á realià árangà/sistemà.
+Ne tik raðomas kodas, bet ir kuriama IT infrastuktûra, duomenø bazës.
+
+"Development of IT infrastructure"
+"Development of the database and code"
+
+4. TESTING
+AR GAVOME TAI, KO NORËJOME? | Did we get what we want?
+Testavimo uþduoèiø (Test cases) vykdymas, klaidø ieðkojimas bei gráþtamasis ryðys, produkto atsiliepimai;
+
+"Execution of the test cases"
+"Product feedback"
+
+
+5. Deploying
+Produkto pristatymas klientui ir/ar potencaliems naudotojams.
+
+Gaunamas feedback'as ið realiø naudotojø.
+
+6. Maintaining
+
+Iðleisto produkto pastovus atnaujinimas ir prieþiûra, atsidarusiø klaidø tvarkymas.
